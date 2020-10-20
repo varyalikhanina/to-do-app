@@ -1,4 +1,4 @@
-# Recipe To-Do-App
+# React To-Do-App
 
 Create a list to keep track of both completed and uncompleted  to-do's.
 
